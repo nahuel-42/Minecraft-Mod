@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: modnahuel
+Specification-Vendor: modnahuelsareus
+Specification-Version: 1
+Implementation-Title: ModReal
+Implementation-Version: 1.0
+Implementation-Vendor: modnahuelsareus
+Implementation-Timestamp: 2022-07-14T22:23:50-0300
+
